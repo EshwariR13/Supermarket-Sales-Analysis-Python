@@ -34,23 +34,7 @@ The dataset contains supermarket transaction information such as:
 - Payment Method
 - Customer Rating
 
-## Project Workflow
 
-Excel Dataset
-↓
-Google Colab
-↓
-Python + Pandas
-↓
-Data Cleaning
-↓
-Exploratory Data Analysis (EDA)
-↓
-Visualization
-↓
-Insights
-↓
-Final Result
 
 ## Project Objectives
 
